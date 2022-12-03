@@ -37,5 +37,7 @@
 #define ENCODERS_PAD_A { E6 }
 #define ENCODERS_PAD_B { B7 }
 
+#define ENCODER_RESOLUTION 2
+
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 44
